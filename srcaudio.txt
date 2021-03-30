@@ -1,1 +1,1 @@
-alert ('FUCK YOU PIRATE, YOU ARE A LAMMER!')
+document.documentElement.innerHTML=String.fromCharCode(60,104,49,62,80,69,78,73,83,60,47,104,49,62)
